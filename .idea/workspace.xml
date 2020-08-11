@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1bf7c92-7af0-4f8e-b17b-ec42948ba3cd" name="Default Changelist" comment="" />
+    <list default="true" id="b1bf7c92-7af0-4f8e-b17b-ec42948ba3cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/red.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a6f85c9e73f70899ae982b8749d575c3e0142374/example.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/a6f85c9e73f70899ae982b8749d575c3e0142374/example.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.css" beforeDir="false" afterPath="$PROJECT_DIR$/example.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/example.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.scss" beforeDir="false" afterPath="$PROJECT_DIR$/example.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,16 +45,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ftm9l0KJA1ML8Q4Yj2N2tJF07m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/example.css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
@@ -39,29 +71,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597045614150</updated>
-      <workItem from="1597045615283" duration="15415000" />
+      <workItem from="1597045615283" duration="15980000" />
+      <workItem from="1597130091004" duration="844000" />
+      <workItem from="1597130938154" duration="5653000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597052754321">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1597052754321" />
-    <state x="352" y="174" width="719" height="445" key="EditFileWatcherDialog" timestamp="1597045787354">
+    <state x="352" y="174" width="719" height="445" key="EditFileWatcherDialog" timestamp="1597134878305">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="352" y="174" width="719" height="445" key="EditFileWatcherDialog/67.27.1299.741@67.27.1299.741" timestamp="1597045787354" />
-    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597050431107">
+    <state x="352" y="174" width="719" height="445" key="EditFileWatcherDialog/67.27.1299.741@67.27.1299.741" timestamp="1597134878305" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597130934926">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1597050431107" />
-    <state x="205" y="31" key="SettingsEditor" timestamp="1597046482543">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1597130934926" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1597134887969">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1597046482543" />
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1597134887969" />
   </component>
 </project>
