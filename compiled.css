@@ -1,0 +1,90 @@
+body {
+  include: 16px;
+  font: 100% "Space Mono", monospace;
+  margin: 0;
+  background-color: #000;
+  background-image: radial-gradient(#fff, rgba(255, 255, 255, 0.2) 2px, transparent 40px), radial-gradient(#fff, rgba(255, 255, 255, 0.15) 1px, transparent 30px), radial-gradient(#fff, rgba(255, 255, 255, 0.1) 2px, transparent 40px), radial-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.1) 2px, transparent 30px);
+  background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+  background-attachment: fixed; }
+
+.class-for-red {
+  color: red; }
+
+.class-for-example {
+  color: blue; }
+
+article {
+  display: flex;
+  flex-wrap: wrap; }
+
+article section {
+  include: 16px;
+  include: box-shadow;
+  flex-grow: 1;
+  flex-basis: 45%;
+  border: 1px silver solid;
+  margin: 16px;
+  clear: both;
+  overflow: auto;
+  box-sizing: border-box; }
+article section#selling-points {
+  flex-grow: 2;
+  flex-basis: 100%; }
+article code {
+  include: 16px;
+  background: #000;
+  border: 1px solid #ddd;
+  color: #666;
+  page-break-inside: avoid;
+  font-family: monospace;
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 1.6em;
+  max-width: 100%;
+  overflow: auto;
+  display: block;
+  word-wrap: break-word; }
+article code.before {
+  float: left;
+  width: 40%; }
+article code.after {
+  float: right;
+  width: 40%; }
+
+h1,
+h2,
+h6 {
+  color: #6B8EFF; }
+
+h1 {
+  text-align: center; }
+
+h6 {
+  include: double-padding;
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 0; }
+
+.message,
+.success,
+.error,
+.warning,
+.success,
+.error {
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: #2748B3;
+  background-color: #000;
+  width: 100%; }
+
+.success {
+  background-color: green; }
+
+.error {
+  background-color: red; }
+
+.warning, .success, .error {
+  background-color: orange; }
+
+/*# sourceMappingURL=compiled.css.map */
